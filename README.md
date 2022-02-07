@@ -29,6 +29,9 @@
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 -  In general, median household income is higher in urban counties than in rural areas. Likewise, poverty rates tend to be lower in urban areas than in rural areas (U.S. Census, 2013-2017 5 year estimates).
 -  Underserved communities lack equal access to affordable, reliable transportation
-- Business recommendation #1: Create an incentive program to introduce more drivers in rural areas to help bring down average fare prices.
-- Business recommendation #2: Partner with Goodwill®, or United Way® to distribute donated rides to help job seekers get to job training, interview prep, interviews, and/or new jobs.
-- Business recommendation #3: Partner with local health care systems and hospitals to distribute donated rides to help rural citizens get access to care, which in turn helps keep health care costs down for the health system.
+- Business recommendation #1
+  - Create an incentive program to introduce more drivers in rural areas to help bring down average fare prices. 
+- Business recommendation #2
+  - Partner with Goodwill®, or United Way® to distribute donated rides to help job seekers get to job training, interview prep, interviews, and/or new jobs. 
+- Business recommendation #3
+  - Partner with local health care systems and hospitals to distribute donated rides to help rural citizens get access to care, which in turn helps keep health care costs down for the health system.
